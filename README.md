@@ -1,2 +1,2 @@
 # git-usage
-![](images\after-create-repo.png)
+![](images/after-create-repo.png)
